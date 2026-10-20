@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">Lets you explicitly enable Lailaba to assist with on-screen actions. The service is off until you enable it in Android Settings.</string>
+</resources>
